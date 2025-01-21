@@ -124,4 +124,4 @@ sismics - Teedy(https://github.com/sismics/docs)<br />portswigger - Cross-site r
 
 # Credits
 
-I want to say thank you <a href="https://github.com/ayato-shitomi" target="_blank">Ayato</a> for teaching me how to report a vulnerability.
+Thank you, <a href="https://github.com/ayato-shitomi" target="_blank">Ayato</a> for teaching me how to report a vulnerability.
